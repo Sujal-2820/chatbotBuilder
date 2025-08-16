@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Live link for the project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://sujalsoni-chatbotbuilder.vercel.app/
 
 ## Available Scripts
 
