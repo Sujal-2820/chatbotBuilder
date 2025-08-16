@@ -7,12 +7,12 @@ https://sujalsoni-chatbotbuilder.vercel.app/
 ## Screenshots
 
 ### Light Mode
-<img src="public/images/FlowChart.png" alt="Flow Chart Builder" style="border: 3px solid #000; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);"/>
+<img src="public/images/flowchart1.png" alt="Flow Chart Builder" style="border: 3px solid #000; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);"/>
 <br/>
 <br/>
 
 ### Dark Mode
-<img src="public/images/flowchartDark.png" alt="Flow Chart Builder Dark" style="border: 3px solid #000; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);"/>
+<img src="public/images/flowchartDark1.png" alt="Flow Chart Builder Dark" style="border: 3px solid #000; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);"/>
 <br/>
 
 ---

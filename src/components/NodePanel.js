@@ -42,7 +42,7 @@ const NodePanel = () => {
       </div>
 
       <div className="panel-footer">
-        <p className="help-text">More node types coming soon! Designed by Sujal Soni for ByteSpeed.</p>
+        <p className="help-text">More node types coming soon! Designed by Sujal Soni for BiteSpeed.</p>
       </div>
     </div>
   )
