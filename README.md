@@ -11,7 +11,7 @@ https://sujalsoni-chatbotbuilder.vercel.app/
 <br/>
 <br/>
 
-### Onboarding
+### Dark Mode
 <img src="public/images/flowchartDark.png" alt="Flow Chart Builder Dark" style="border: 3px solid #000; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);"/>
 <br/>
 
